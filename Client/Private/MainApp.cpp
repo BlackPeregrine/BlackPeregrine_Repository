@@ -36,6 +36,8 @@ void CMainApp::Update(_float fTimeDelta)
 
 HRESULT CMainApp::Render()
 {
+	int a = 6;
+
 	m_pGameInstance->Render_Begin();
 
 	m_pGameInstance->Render_Engine();

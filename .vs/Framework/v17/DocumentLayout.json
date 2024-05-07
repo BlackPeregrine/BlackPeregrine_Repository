@@ -5,6 +5,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{905E1509-72B4-4BF5-8FDF-F8ED8E2B7C08}|Client\\Default\\Client.vcxproj|C:\\Users\\jyk01\\Desktop\\5\uAC1C\uC6D4\uCC28 \uC5F0\uC2B5\\17\uC77C\uCC28 - \uCE74\uBA54\uB77C \uC774\uB3D9 - \uBCF5\uC0AC\uBCF8 (2)\\Client\\private\\MainApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{905E1509-72B4-4BF5-8FDF-F8ED8E2B7C08}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\private\\MainApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905E1509-72B4-4BF5-8FDF-F8ED8E2B7C08}|Client\\Default\\Client.vcxproj|C:\\Users\\jyk01\\Desktop\\5\uAC1C\uC6D4\uCC28 \uC5F0\uC2B5\\17\uC77C\uCC28 - \uCE74\uBA54\uB77C \uC774\uB3D9 - \uBCF5\uC0AC\uBCF8 (2)\\Client\\Private\\Level_GamePlay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{905E1509-72B4-4BF5-8FDF-F8ED8E2B7C08}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Private\\Level_GamePlay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905E1509-72B4-4BF5-8FDF-F8ED8E2B7C08}|Client\\Default\\Client.vcxproj|C:\\Users\\jyk01\\Desktop\\5\uAC1C\uC6D4\uCC28 \uC5F0\uC2B5\\17\uC77C\uCC28 - \uCE74\uBA54\uB77C \uC774\uB3D9 - \uBCF5\uC0AC\uBCF8 (2)\\Client\\Public\\Level_GamePlay.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{905E1509-72B4-4BF5-8FDF-F8ED8E2B7C08}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\Public\\Level_GamePlay.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{905E1509-72B4-4BF5-8FDF-F8ED8E2B7C08}|Client\\Default\\Client.vcxproj|C:\\Users\\jyk01\\Desktop\\5\uAC1C\uC6D4\uCC28 \uC5F0\uC2B5\\17\uC77C\uCC28 - \uCE74\uBA54\uB77C \uC774\uB3D9 - \uBCF5\uC0AC\uBCF8 (2)\\Client\\public\\MainApp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{905E1509-72B4-4BF5-8FDF-F8ED8E2B7C08}|Client\\Default\\Client.vcxproj|solutionrelative:Client\\public\\MainApp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +26,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Level_GamePlay.h",
+              "DocumentMoniker": "C:\\Users\\jyk01\\Desktop\\5\uAC1C\uC6D4\uCC28 \uC5F0\uC2B5\\17\uC77C\uCC28 - \uCE74\uBA54\uB77C \uC774\uB3D9 - \uBCF5\uC0AC\uBCF8 (2)\\Client\\Public\\Level_GamePlay.h",
+              "RelativeDocumentMoniker": "Client\\Public\\Level_GamePlay.h",
+              "ToolTip": "C:\\Users\\jyk01\\Desktop\\5\uAC1C\uC6D4\uCC28 \uC5F0\uC2B5\\17\uC77C\uCC28 - \uCE74\uBA54\uB77C \uC774\uB3D9 - \uBCF5\uC0AC\uBCF8 (2)\\Client\\Public\\Level_GamePlay.h",
+              "RelativeToolTip": "Client\\Public\\Level_GamePlay.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-07T08:46:31.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Level_GamePlay.cpp",
+              "DocumentMoniker": "C:\\Users\\jyk01\\Desktop\\5\uAC1C\uC6D4\uCC28 \uC5F0\uC2B5\\17\uC77C\uCC28 - \uCE74\uBA54\uB77C \uC774\uB3D9 - \uBCF5\uC0AC\uBCF8 (2)\\Client\\Private\\Level_GamePlay.cpp",
+              "RelativeDocumentMoniker": "Client\\Private\\Level_GamePlay.cpp",
+              "ToolTip": "C:\\Users\\jyk01\\Desktop\\5\uAC1C\uC6D4\uCC28 \uC5F0\uC2B5\\17\uC77C\uCC28 - \uCE74\uBA54\uB77C \uC774\uB3D9 - \uBCF5\uC0AC\uBCF8 (2)\\Client\\Private\\Level_GamePlay.cpp",
+              "RelativeToolTip": "Client\\Private\\Level_GamePlay.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-07T08:46:31.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainApp.h",
+              "DocumentMoniker": "C:\\Users\\jyk01\\Desktop\\5\uAC1C\uC6D4\uCC28 \uC5F0\uC2B5\\17\uC77C\uCC28 - \uCE74\uBA54\uB77C \uC774\uB3D9 - \uBCF5\uC0AC\uBCF8 (2)\\Client\\Public\\MainApp.h",
+              "RelativeDocumentMoniker": "Client\\Public\\MainApp.h",
+              "ToolTip": "C:\\Users\\jyk01\\Desktop\\5\uAC1C\uC6D4\uCC28 \uC5F0\uC2B5\\17\uC77C\uCC28 - \uCE74\uBA54\uB77C \uC774\uB3D9 - \uBCF5\uC0AC\uBCF8 (2)\\Client\\Public\\MainApp.h",
+              "RelativeToolTip": "Client\\Public\\MainApp.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-07T08:45:23.558Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +75,7 @@
               "RelativeDocumentMoniker": "Client\\Private\\MainApp.cpp",
               "ToolTip": "C:\\Users\\jyk01\\Desktop\\5\uAC1C\uC6D4\uCC28 \uC5F0\uC2B5\\17\uC77C\uCC28 - \uCE74\uBA54\uB77C \uC774\uB3D9 - \uBCF5\uC0AC\uBCF8 (2)\\Client\\Private\\MainApp.cpp",
               "RelativeToolTip": "Client\\Private\\MainApp.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAABAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACoAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-07T08:28:19.975Z",
               "EditorCaption": ""

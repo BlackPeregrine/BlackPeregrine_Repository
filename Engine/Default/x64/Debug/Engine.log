@@ -1,11 +1,32 @@
-﻿  Component_Manager.cpp
-  코드를 생성하고 있습니다...
-  컴파일하고 있습니다...
-  Transform.cpp
-  Level.cpp
-  GameObject.cpp
+﻿  Base.cpp
+  Component.cpp
+  Component_Manager.cpp
   GameInstance.cpp
+  GameObject.cpp
+C:\Users\jyk01\Desktop\5개월차 연습\17일차 - 카메라 이동 - 복사본 (2)\Engine\Public\GameObject.h(13,2): warning C5208: typedef 이름에 사용되는 명명되지 않은 클래스가 비정적 데이터 멤버, 멤버 열거형 또는 멤버 클래스 이외의 멤버를 선언할 수 없습니다.
+  (소스 파일 '../private/GameObject.cpp'을(를) 컴파일하는 중)
+  
+  Graphic_Device.cpp
+  Layer.cpp
+C:\Users\jyk01\Desktop\5개월차 연습\17일차 - 카메라 이동 - 복사본 (2)\Engine\public\GameObject.h(13,2): warning C5208: typedef 이름에 사용되는 명명되지 않은 클래스가 비정적 데이터 멤버, 멤버 열거형 또는 멤버 클래스 이외의 멤버를 선언할 수 없습니다.
+  (소스 파일 '../private/Layer.cpp'을(를) 컴파일하는 중)
+  
+  Level.cpp
+  Level_Manager.cpp
+  Object_Manager.cpp
+C:\Users\jyk01\Desktop\5개월차 연습\17일차 - 카메라 이동 - 복사본 (2)\Engine\public\GameObject.h(13,2): warning C5208: typedef 이름에 사용되는 명명되지 않은 클래스가 비정적 데이터 멤버, 멤버 열거형 또는 멤버 클래스 이외의 멤버를 선언할 수 없습니다.
+  (소스 파일 '../private/Object_Manager.cpp'을(를) 컴파일하는 중)
+  
+  Renderer.cpp
+C:\Users\jyk01\Desktop\5개월차 연습\17일차 - 카메라 이동 - 복사본 (2)\Engine\public\GameObject.h(13,2): warning C5208: typedef 이름에 사용되는 명명되지 않은 클래스가 비정적 데이터 멤버, 멤버 열거형 또는 멤버 클래스 이외의 멤버를 선언할 수 없습니다.
+  (소스 파일 '../Private/Renderer.cpp'을(를) 컴파일하는 중)
+  
+  Texture.cpp
+  Timer.cpp
+  Timer_Manager.cpp
+  Transform.cpp
+  VIBuffer.cpp
+  VIBuffer_Rect.cpp
   코드를 생성하고 있습니다...
      ../Bin/Engine.lib 라이브러리 및 ../Bin/Engine.exp 개체를 생성하고 있습니다.
-  Engine.vcxproj -> D:\정의훈\144\Framework\Engine\Default\../Bin/Engine.dll
-  Engine.vcxproj -> ../Bin/Engine.pdb (Full PDB)
+  Engine.vcxproj -> C:\Users\jyk01\Desktop\5개월차 연습\17일차 - 카메라 이동 - 복사본 (2)\Engine\Bin\Engine.dll
