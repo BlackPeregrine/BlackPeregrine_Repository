@@ -8,7 +8,7 @@ CMainApp::CMainApp()
 	: m_pGameInstance{ CGameInstance::Get_Instance() }
 {
 	/* 싱글턴 객체의 주소는 자체 클래스 안의 멤버변수에 보관하지만 그 주소를 CMainApp클래스에 멤버변수에도 공유하였기때문 */
-	Safe_AddRef(m_pGameInstance);
+	(m_pGameInstance);
 }
 
 HRESULT CMainApp::Initialize()
